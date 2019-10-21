@@ -11,3 +11,26 @@ r
 Bsrc/br/org/singleresponsiblityprinciple/QuinzeOuVintePorcento.java,a/5/a5f5c420765b49dbf5d6a3503391966be00bd271
 k
 ;src/br/org/singleresponsiblityprinciple/RegraDeCalculo.java,0/6/06e8d6d1745857c8cbd3f3718461522bc4a5948a
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+g
+7src/br/org/openclosedprinciple/CalculadoraDePrecos.java,f/9/f9fd943250d24068bec30ccf70124d40180c7b4e
+h
+8src/br/org/classesabertafechada/CalculadoraDePrecos.java,9/8/9846e07830dbdfaf45fa869b03c784adc2babf1f
+[
++src/br/org/classesabertafechada/Compra.java,3/4/34b481bf5ad272d74bee4e07b13ba05aecb7878c
+Z
+*src/br/org/classesabertafechada/Frete.java,b/2/b2c271f49da9f4535bdd64bb6dc8594099f3ccfb
+e
+5src/br/org/classesabertafechada/ServicoDeEntrega.java,d/a/da6a731647f8c9229662e5a5a647159007685b7e
+b
+2src/br/org/classesabertafechada/TabelaDePreco.java,7/6/76cb85b38f903d161c82532194af0855c484a34a
+n
+>src/br/org/classesabertafechada/TabelaDePrecoDiferenciada.java,2/d/2dd8468775c328d29e1589c0cb29ce06cb56ab1f
+h
+8src/br/org/classesabertafechada/TabelaDePrecoPadrao.java,c/3/c349bac2a5bdedb04bad0a59fab388a4fb10ec9b
+Z
+*src/br/org/classesabertafechada/Teste.java,f/7/f7f18bb0420424f489a88211e709b9d12e8a48a4
