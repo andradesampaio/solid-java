@@ -16,8 +16,6 @@ k
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-g
-7src/br/org/openclosedprinciple/CalculadoraDePrecos.java,f/9/f9fd943250d24068bec30ccf70124d40180c7b4e
 h
 8src/br/org/classesabertafechada/CalculadoraDePrecos.java,9/8/9846e07830dbdfaf45fa869b03c784adc2babf1f
 [
@@ -34,3 +32,17 @@ h
 8src/br/org/classesabertafechada/TabelaDePrecoPadrao.java,c/3/c349bac2a5bdedb04bad0a59fab388a4fb10ec9b
 Z
 *src/br/org/classesabertafechada/Teste.java,f/7/f7f18bb0420424f489a88211e709b9d12e8a48a4
+n
+>src/br/org/entendendooencapsulamento/ProcessadorDeBoletos.java,2/c/2ce61bac6d958ce656ccbbcdb9a2cc4ec0b32224
+i
+9src/br/org/entendendooencapsulamento/MeioDePagamento.java,2/6/2683cb6cde79a9c0b314ca11916c42aa2d35af54
+c
+3src/br/org/entendendooencapsulamento/Pagamento.java,7/c/7ca4157fdb9f90e07c364b77f3245614702abb2c
+n
+>src/br/org/liskovsubstitutiveprinciple/ManipuladorDeSaldo.java,0/7/07eda71a6d116b78928196caab1f28c1e56b37e7
+v
+Fsrc/br/org/liskovsubstitutiveprinciple/ProcessadorDeInvestimentos.java,2/1/21a1f806c12211f994f6362e49ee8282a0086b4c
+l
+<src/br/org/liskovsubstitutiveprinciple/ContaDeEstudante.java,2/2/223bf6471c4a6687a991b5cd1053b401ebdb9412
+f
+6src/br/org/liskovsubstitutiveprinciple/ContaComum.java,8/c/8c1378ee16c010c1b7382d6d767a75beb0351af5
